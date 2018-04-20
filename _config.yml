@@ -12,8 +12,8 @@ email: w2ak@noreply.github.com
 #write html inside the double quotes to display in jumbotron
 description: "<h1>DevJournal</h1>"
 
-baseurl: "/devjournal" # the subpath of your site, e.g. /blog
-url: "https://w2ak.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nezedrd.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username: w2ak
 

@@ -22,5 +22,5 @@ what the intensity is depending on the position of the point.
 
 A short [explanation video][yti] is online.
 
-[ghi]: https://github.com/nezedrd/interference
+[ghi]: https://github.com/nezedrd/interference/tree/www.math
 [yti]: https://youtu.be/-19MYp6xSZk

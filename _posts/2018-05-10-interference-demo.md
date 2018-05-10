@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rendering"
+title: "Demonstration"
 categories: python interference
 author: Clement
 ---
